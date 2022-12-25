@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williammilisic
 - 👀 I’m interested in cloud computing, devops, product & people leadership, and all things agile
-- 🌱 I’m currently learning terraform and typescript
+- 🌱 I’m currently learning terraform and javascript
 - 📫 Reach me at https://cloudcloud.dev
 
 <!---
